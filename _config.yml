@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. student, University of Minnesota"
   location         : "Minneapolis, Minnesota"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=M0ki5ZgAAAAJ&hl=en"
   email            : "chen5719 [at] umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
